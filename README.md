@@ -1,2 +1,2 @@
 # KatasLaunchX
-Katas de Juoyter Notebook para Lauch X
+Katas de Jupyter Notebook para Lauch X
