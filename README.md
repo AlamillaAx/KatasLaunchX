@@ -1,2 +1,2 @@
 # KatasLaunchX
-Katas para Lauch X
+Katas de Juoyter Notebook para Lauch X
